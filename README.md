@@ -17,7 +17,7 @@
 ### **Установка помощи  CDN**
 Если вы хотите подключить только CSS( без JavaScript -плагина) добавьте в ваши html- файлы следующий код:
 ```html
-<p>The function <code>selectAll()</code> highlights all the text in the
+<p>The function <code>selectAll()</code> 
 input field so the user can, for example, copy or delete the text.</p>
 ```
 ### **Использование**
