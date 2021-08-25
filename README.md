@@ -22,3 +22,18 @@ input field so the user can, for example, copy or delete the text.</p>
 ```
 ### **Использование**
 Все возможности по использованию  описаны в  [официальной документации](http://htmlbook.ru/html/code).
+
+```JavaScript
+<script src="https://localhost/neuro.sdk.min.js"></script>
+```
+```Java
+<dependency>
+  <groupId>neuro</groupId>
+  <artifactId>sdk</artifactId>
+  <version>1.0.0</version>
+</dependency>
+```
+```iOS
+platform :ios, '8.0's
+pod "neuro-ios-sdk"
+```
